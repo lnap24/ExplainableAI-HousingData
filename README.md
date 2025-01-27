@@ -1,1 +1,3 @@
-# Ethics-of-Big-Data
+### Explainable AI and Housing Data Project
+
+This project was concieved as a way to blend concepts from data ethics with real world data science applications. In this instance, I chose to explore the relationship between explainable AI and data ethics as it relates to housing data. I downloaded a dataset from the Consumer Financial Protection Bureau that covers mortgages from various financial institutions in 2017. My goal was to generate a project and report that explained the data engineering tasks I did and the model associated with exploring the target variable of who gets a home loan and who doesn't. The data ethics element of this project enabled me to think critically at each stage of the machine learning life cycle to consider how choices made in every stage impact real people along the line.
